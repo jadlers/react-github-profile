@@ -13,8 +13,10 @@
     "match-sorter": "2.3.0",
     "netlify-auth-providers": "1.0.0-alpha5",
     "prop-types": "15.6.2",
-    "react": "16.6.1",
-    "react-dom": "16.6.1",
+    "react": "16.7.0-alpha.0",
+    "react-cache": "2.0.0-alpha.1",
+    "react-dom": "16.7.0-alpha.0",
+    "scheduler": "0.11.0-alpha.0",
     "react-error-boundary": "1.2.3",
     "react-tooltip": "3.9.0"
   },
